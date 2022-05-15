@@ -1,3 +1,10 @@
+## Edits
+Buttons for Japanese/English episode titles now function as intended
+
+Can run source code through Visual Studio (Not VSCode) + .NET (Can select in VS installer)
+
+Don't want to make installer so...
+
 # MAL Renamer
 This program will grab series information from [MyAnimeList.net](https://myanimelist.net/) and easily modify the filenames of your files to match a clean, easy to read format.
 
